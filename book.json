@@ -1,5 +1,10 @@
 {
-    "plugins": [
-      "toggle-chapters"
-    ]
+  "author": "Truda",
+  "language": "zh",
+  "plugins": [
+    "toggle-chapters"
+  ],
+  "styles": {
+    "website": "styles/website.css"
   }
+}

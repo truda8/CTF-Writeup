@@ -1,0 +1,7 @@
+pre {
+    font-size: 16px !important;
+}
+
+div[data-slate-editor="true"] span {
+    font-size: 20px !important;
+}
