@@ -1,6 +1,6 @@
 {
     "plugins": [
       "summary",
-      "toggle-chapters"
+      "chapter-fold"
     ]
   }
