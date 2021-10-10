@@ -2,9 +2,10 @@
 
 * [BUUCTF](/BUUCTF)
     * [[护网杯 2018]easy_tornado](/BUUCTF/[护网杯 2018]easy_tornado.md)
-    * [[极客大挑战 2019]BabySQL](/BUUCTF/[极客大挑战 2019]BabySQL.md)
     * [[极客大挑战 2019]BuyFlag](/BUUCTF/[极客大挑战 2019]BuyFlag.md)
+    * [[极客大挑战 2019]BabySQL](/BUUCTF/[极客大挑战 2019]BabySQL.md)
     * [[极客大挑战 2019]EasySQL](/BUUCTF/[极客大挑战 2019]EasySQL.MD)
+    * [[HCTF 2018]admin](/BUUCTF/[HCTF 2018]admin.md)
     * [[极客大挑战 2019]Havefun](/BUUCTF/[极客大挑战 2019]Havefun.MD)
     * [[极客大挑战 2019]Http](/BUUCTF/[极客大挑战 2019]Http.md)
     * [[极客大挑战 2019]Knife](/BUUCTF/[极客大挑战 2019]Knife.MD)
@@ -21,3 +22,8 @@
     * [[HCTF 2018]WarmUp](/BUUCTF/[HCTF 2018]WarmUp.MD)
     * [[RoarCTF 2019]Easy Calc](/BUUCTF/[RoarCTF 2019]Easy Calc.md)
     * [[SUCTF 2019]EasySQL](/BUUCTF/[SUCTF 2019]EasySQL.MD)
+
+* [RACTF](/RACTF)
+    * [notrequired](/RACTF/notrequired.md)
+    * [madlib](/RACTF/madlib.md)
+    * [git commit -m whatever](/RACTF/git commit -m whatever.md)
