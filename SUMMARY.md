@@ -33,3 +33,6 @@
     * [notrequired](/RACTF/notrequired.md)
     * [madlib](/RACTF/madlib.md)
     * [git commit -m whatever](/RACTF/git%20commit%20-m%20whatever.md)
+
+* [ByteCTF2021](/ByteCTF2021)
+    * [double sqli](/ByteCTF2021/double%20sqli.md)
